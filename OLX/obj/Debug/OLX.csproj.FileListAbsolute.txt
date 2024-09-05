@@ -1,0 +1,15 @@
+D:\C#\Task\OLX\OLX\bin\Debug\OLX.exe.config
+D:\C#\Task\OLX\OLX\bin\Debug\OLX.exe
+D:\C#\Task\OLX\OLX\bin\Debug\OLX.pdb
+D:\C#\Task\OLX\OLX\bin\Debug\EntityFramework.dll
+D:\C#\Task\OLX\OLX\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Task\OLX\OLX\bin\Debug\EntityFramework.xml
+D:\C#\Task\OLX\OLX\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.csproj.AssemblyReference.cache
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.csproj.CoreCompileInputs.cache
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.csproj.Up2Date
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.exe
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.pdb
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.Migrations.InitialCreate.resources
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.csproj.GenerateResource.cache
+D:\C#\Task\OLX\OLX\obj\Debug\OLX.Migrations.AddCategory.resources
